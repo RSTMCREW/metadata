@@ -2,6 +2,14 @@
   "name": "$CMD69",
   "symbol": "SCMD69",
   "decimals": 9,
-  "description": "SCMD69 is a community-driven TON token born from curiosity, memes, and the love of building things step by step. No hype, no big claims — just a project growing naturally with its community.",
-  "image": "logo.png"
+  "description": "SCMD69 is a community-driven TON token created via the Blum mini-app and actively traded on STON.fi. The project focuses on organic growth, transparency, and long-term community development without artificial hype.",
+  "image": "logo.png",
+  "website": "https://scmd69.my.canva.site/",
+  "socials": {
+    "telegram": "https://t.me/+iRgLWdyB1AU3MmJk"
+  },
+  "contacts": {
+    "project_representative": "https://t.me/bunxor",
+    "token_creator": "https://t.me/scmd_69"
+  }
 }
